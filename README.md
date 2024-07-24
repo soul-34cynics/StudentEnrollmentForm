@@ -11,12 +11,6 @@ Prerequisites
 Node.js
 npm (Node Package Manager)
 Setup
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/student-enrollment-form.git
-cd student-enrollment-form
 Install Dependencies
 
 bash
