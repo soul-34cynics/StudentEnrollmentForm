@@ -11,15 +11,14 @@ Prerequisites
 Node.js
 npm (Node Package Manager)
 Setup
+
 Install Dependencies
 
-bash
-Copy code
+
 npm install
 Run the Server
 
-bash
-Copy code
+
 node index.js
 The server will start and listen on http://localhost:3000.
 
